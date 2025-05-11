@@ -1,8 +1,8 @@
-# Nike Clone Web
+# Vue.js Nike Clone Web Landing Page (Front-end)
 
-## Customize configuration
+## Design Inspired By
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+See [Js Mastery Youtube Video ](https://youtu.be/tS7upsfuxmo?si=2YL-7WiVK3sVNyQC).
 
 ## Project Setup
 
